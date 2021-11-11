@@ -1,0 +1,73 @@
+/*
+ * Style tweaks
+ * --------------------------------------------------
+ */
+html,
+body {
+  overflow-x: hidden;  /*Prevent scroll on narrow devices */
+  padding-top: 30px;
+    text-align: justify;
+}
+footer {
+  padding: 10px 0;
+}
+.authors {
+  font-size: 20px;
+}
+/*.container {
+  max-width: 768px;
+}*/
+.container {
+  max-width: 1000px;
+}
+p {
+  font-size: 16px;
+  /*padding-bottom: 20px;*/
+}
+
+li {
+  font-size: 16px;
+}
+
+
+h3 {
+  text-align: center;
+}
+
+h4 {
+  text-align: center;
+}
+
+.jumbotron{
+    text-align: center;
+}
+
+.jumbotron h2 {
+  font-size: 36px;
+}
+
+.section {
+  padding-top: 30px;
+}
+
+.center{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.content{
+  font-family: serif;
+}
+
+.box { 
+  margin-top: 15px;
+  margin-left: 15px; 
+  margin-bottom: 15px;
+  font-weight: 300;
+}
+
+.cite {
+  font-size: 10px;
+  font-weight: 200;
+}
